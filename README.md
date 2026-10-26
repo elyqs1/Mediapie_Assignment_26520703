@@ -44,4 +44,3 @@ Ván mới: Màn hình kết quả sẽ dừng lại 3 giây để bạn quan s�
 
 Thoát game: Để đóng ứng dụng an toàn, bạn hãy bấm phím Q trên bàn phím.
 
-# **4. Video Demo**
